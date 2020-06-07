@@ -1,0 +1,120 @@
+
+img{
+	margin-left: 80px;
+	margin-top: 10px;
+}
+body{
+	background: #cccc00;
+	padding-left: 100px;
+	vertical-align: center;
+
+
+}
+h1{
+	color: #993366;
+	font-style: italic;
+	text-shadow: 1px 1px red;
+
+	}
+div .material-icons{
+	color: grey;
+	margin-top: -8px;
+}
+div{
+	/*border-bottom: 2px solid black;*/	
+}
+.special button{
+	color:#993366;
+	background-color: white; 
+	border-radius: 30px;
+	font-size: 17px;
+	margin-left: 17px;
+	margin-top: 2px;
+
+}	
+ul{
+	/*border-bottom: 2px solid black;*/
+	padding-bottom: 20px;
+
+}
+#Sites button{
+	color:#993366;
+	background-color: white; 
+	border-radius: 30px;
+	font-size: 17px;
+	margin-left: 17px;
+	margin-top: 2px;
+
+}
+#Fav{
+	color:#6600ff;
+	font-style: italic;
+}
+
+
+#Unorderd{
+	color:black;
+	font-family:  "Times New Roman", Times, serif;
+	margin-left: -45px;
+	font-weight: bold;
+	font-variant: small-caps;
+}
+table{
+	margin-left: 900px;
+    margin-top: -1000px;
+	width: 800px;
+	max-width: 700px;
+	height: 500px;
+	overflow: auto;
+
+}
+th{
+	text-align: center;
+	font-size: 16px;
+	background: #ffffcc;
+	
+}
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 10px; 
+	text-align: center;
+}
+table caption{
+	color: #ff33cc;
+	padding: 8px;
+	margin-top: 10px;
+	font-size: 20px;
+}
+tr{
+background-color: #ccffcc;
+} 
+#Edu button{
+color:#993366;
+	background-color: white; 
+	border-radius: 30px;
+	font-size: 17px;
+	margin-left: 30px;
+    }
+
+
+
+p{
+	margin-left: -20px;
+}
+#Link{
+	margin-left: 1050px;
+	color:purple;
+	padding-top:20px;
+}
+h6{
+	padding-left:1200px;
+	padding-top: 40px;
+	color:#993366;
+}
+#par{
+	padding-left: 900px;
+	color: red;
+}
+
